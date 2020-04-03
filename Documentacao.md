@@ -42,31 +42,31 @@ TBD
 
 TBD
 
-#### Parâmetros do COVID-19
+### Parâmetros do COVID-19
 
 TBD
 
-#### Cálculo da probabilidade de mortes
+### Cálculo da probabilidade de mortes
 
 TBD
 
-#### Aumento e Diminuição do tamanho do dataset
+### Aumento e Diminuição do tamanho do dataset
 
 TBD
 
-#### Mapas
+### Mapas
 
 TBD
 
-#### Animações
+### Animações
 
 TBD
 
-#### Modelagem Matemática
+### Modelagem Matemática
 
 TBD
 
-#### Dados
+### Dados
 
 TBD     
 

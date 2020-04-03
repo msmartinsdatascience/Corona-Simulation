@@ -6,13 +6,13 @@
     - [Contextualização](#contextualizacao)
     - [Objetivo](#objetivo)
     - [Resultados Esperados](#resultados-esperados)
-    - [*Seções*](#secoes)
-        - [*Parâmetros do COVID-19*](#parametros-covid19)
-        - [*Cálculo da probabilidade de mortes*](#calculo-probabilidade-mortes)
-        - [*Aumento e Diminuição do tamanho do dataset*](#aumento-diminuicao-dataset)
+    - [*Seções*](#seções)
+        - [*Parâmetros do COVID-19*](#parâmetros-do-covid-19)
+        - [*Cálculo da probabilidade de mortes*](#cálculo-da-probabilidade-de-mortes)
+        - [*Aumento e Diminuição do tamanho do dataset*](#aumento-e-diminuição-do-tamanho-do-dataset)
         - [*Mapas*](#mapas)
-        - [*Animações*](#animacoes)
-        - [*Modelagem Matemática*](#modelagem-matematica)
+        - [*Animações*](#animações)
+        - [*Modelagem Matemática*](#modelagem-matemática)
         - [*Dados*](#dados)
 <!-- /TOC -->
 
@@ -42,31 +42,31 @@ TBD
 
 TBD
 
-*Parâmetros do COVID-19*
+### Parâmetros do COVID-19
 
 TBD
 
-*Cálculo da probabilidade de mortes*
+### Cálculo da probabilidade de mortes
 
 TBD
 
-*Aumento e Diminuição do tamanho do dataset*
+### Aumento e Diminuição do tamanho do dataset
 
 TBD
 
-*Mapas*
+### Mapas
 
 TBD
 
-*Animações*
+### Animações
 
 TBD
 
-*Modelagem Matemática*
+### Modelagem Matemática
 
 TBD
 
-*Dados*
+### Dados
 
 TBD     
 
